@@ -221,7 +221,7 @@ const Footer = () => {
                           href="https://bootstrapbrain.com/"
                           class="link-secondary text-decoration-none"
                         >
-                          Pradeep Arivazhagan
+                          parthasarathy
                         </a>{" "}
                         with <span class="text-danger">&#9829;</span>
                       </div>
